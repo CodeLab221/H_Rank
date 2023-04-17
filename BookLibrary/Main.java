@@ -63,7 +63,7 @@ class BookCatalogue {
  public class Main {
     public static void main(String[] args) {
         Book book1 = new Book("Harry Potter and the Philosopher's Stone", "J.K. Rowling", 15.99);
-        Book book2 = new Book("The Lord of the Rings", "J.R.R. Tolkien", 24.99);
+        Book book2 = new Book("The Lord of the Rings", "J.R.R. Tolkien", 54.99);
         Book book3 = new Book("To Kill a Mockingbird", "Harper Lee", 12.99);
 
         BookCatalogue catalogue = new BookCatalogue();
